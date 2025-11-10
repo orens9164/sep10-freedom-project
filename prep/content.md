@@ -6,8 +6,9 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
-* Tech
-  * Detail
+* thermal modifiers
+  * alters the properties of wood to let it better resist moisture, decay, and pests.
+*
   * [image text](image URL)
 
 ## Part B: possible future technology
