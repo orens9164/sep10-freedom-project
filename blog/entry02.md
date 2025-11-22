@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: researching existing technology
+##### 11/22/25
 
 Text
 
