@@ -3,7 +3,7 @@
 
 ## Researching technology
 
-I did a lot of searching on google and found some 
+I did a lot of searching on google and found some technology that already exists that
 
 [Previous](entry01.md) | [Next](entry03.md)
 
