@@ -3,7 +3,7 @@
 
 ## Researching technology
 
-I did a lot of searching on google and found some technology that already exists that
+I did a lot of searching on google and found some technology that already exists that shows how the wood is used. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
