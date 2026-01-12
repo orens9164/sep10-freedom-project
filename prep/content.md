@@ -13,7 +13,7 @@ Topic: **WoodWorking**
 * saw tables
   * a circular blade sticking out of the middle of a table, you push the wood into it and it cuts while you push, used for making precise and straight cuts on wood.
 * ai quality control
-  *used to moniter the quality of wood, allowing seperation between the wood being used to make sure you're using high quality wood for high quality furniture or other objects.
+  * used to moniter the quality of wood, allowing seperation between the wood being used to make sure you're using high quality wood for high quality furniture or other objects.
 * drills
   * used to make holes in the wood so you can insert wood or screws, along with other things, to attatch different pieces together, as well as hang things.
 
