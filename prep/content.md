@@ -20,7 +20,7 @@ Topic: **WoodWorking**
 ## Part B: possible future technology
 * ai functioned tree cutter
   * an ai that is built in to a machine on wheels that uses a scanner or sonar technology to find the trees in the area and drive towards them, the front of the machine will have large saws to cut the tree, and the tree would fall backwards onto the bed of the machine, where there will be pressure enabled clamps to hold the tree down while it continues to drive. once the bed is full, it will go to a designated area and tilt the bed to drop the logs into a convenient spot.
-*big slime block
-  *one of the main dangers is a tree falling on people, so if you have a large slime block to catch it, it will land on it and not hit anyone.
-  *the slime block will have to be high density slime so it doesn't just flow and drown everyone.
-  *it will also be very fun.
+*catcher
+  *one of the main dangers is a tree falling on people, so if you have something to catch it, it will not hit anyone.
+  *slowly lowers tree to the ground after catching it.
+  *human controlled.
