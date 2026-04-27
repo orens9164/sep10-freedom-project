@@ -21,7 +21,9 @@ https://wireframe.cc/yg3W9N
 
 * Task/Timeline
 
----
+* Plan and Wireframes: 4/27
+* Home Page: 4/28
+
 
 #### Beyond MVP
 
@@ -34,7 +36,7 @@ https://wireframe.cc/yg3W9N
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
