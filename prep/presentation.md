@@ -1,16 +1,17 @@
 # Presentation Plan
 
 ## Hook
-* 
+* importance of both topics(what they're used for, how they affect each other).
 
 ## Product
-* 
+* MVP of website, explain each part and where i used my tool.
 
 ## Process
-* 
+* timeline of plan.
 
 ## Conclusion
-* 
+* takeaways
+  * its good to turn things in on time so you dont have to stay up until the morning finishing the assignment, especially if the assignment is difficult and/or time consuming.
 
 <!-- EXAMPLE
 
