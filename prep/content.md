@@ -1,5 +1,5 @@
 # Content
-Topic: **L umber and WoodWorking**
+Topic: **Lumber and WoodWorking**
 
 ## Overview/Introduction/Context
 * WoodWorking is used for making many things, from spoons and forks to houses.
